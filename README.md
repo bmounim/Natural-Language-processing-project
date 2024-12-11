@@ -20,7 +20,7 @@ Ensure you have the following Python libraries installed to run the notebook:
 Clone the repository to your local machine to get started:
 
 ```bash
-git clone [repository URL]
+git clone https://github.com/bmounim/Natural-Language-processing-project.git
 ```
 
 ## Notebook Structure
